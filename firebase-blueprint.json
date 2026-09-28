@@ -1,0 +1,14 @@
+{
+  "entities": {
+    "users": {
+      "title": "User Profiles",
+      "description": "User account profiles and security preferences",
+      "properties": {
+        "email": { "type": "string" },
+        "displayName": { "type": "string" },
+        "role": { "type": "string" },
+        "createdAt": { "type": "string" }
+      }
+    }
+  }
+}
